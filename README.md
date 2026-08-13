@@ -148,6 +148,39 @@ Power BI was used to create an interactive dashboard to visualize the customer b
 
 `customer_behavior_dashboard.pbix`
 
+## 📊 Power BI Dashboard
+
+An interactive Power BI dashboard was developed to analyze customer shopping behaviour and present key business insights in an easy-to-understand visual format.
+
+### Dashboard Analysis
+
+The dashboard provides insights into:
+
+- Customer purchasing behaviour
+- Sales and purchase performance
+- Product performance
+- Customer segments
+- Gender-wise purchasing behaviour
+- Discount usage
+- Shipping preferences
+- Product ratings
+- Key Performance Indicators (KPIs)
+
+### Power BI Features Used
+
+- Power Query for data cleaning and transformation
+- Data modeling
+- DAX measures
+- KPI cards
+- Interactive charts and visualizations
+- Slicers and filters
+
+### Dashboard Preview
+
+![Customer Behaviour Dashboard](customer_dashboard.png)
+
+*Power BI File:* customer_behavior_dashboard.pbix
+
 ---
 
 # 📈 Key Business Insights
