@@ -177,9 +177,11 @@ The dashboard provides insights into:
 
 ### Dashboard Preview
 
-![Customer Behaviour Dashboard](customer_dashboard.png)
+![Customer Behaviour Dashboard]
+(customer_behavior_dashboard.png)
 
-*Power BI File:* customer_behavior_dashboard.pbix
+*Power BI File:*
+customer_behavior_dashboard.pbix
 
 ---
 
