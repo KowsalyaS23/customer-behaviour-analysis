@@ -175,11 +175,14 @@ The dashboard provides insights into:
 - Interactive charts and visualizations
 - Slicers and filters
 
-### Dashboard Preview
+
+## 📊 Dashboard Preview
+
+The Power BI dashboard provides an interactive view of customer behaviour, sales performance, customer segments, product performance, payment methods, and location-based insights.
+
 ![Customer Behaviour Dashboard](customer_behavior_dashboard.png)
 
-*Power BI File:*customer_behavior_dashboard.pbix
-
+*Power BI Dashboard:* customer_behavior_dashboard.pbix
 ---
 
 # 📈 Key Business Insights
